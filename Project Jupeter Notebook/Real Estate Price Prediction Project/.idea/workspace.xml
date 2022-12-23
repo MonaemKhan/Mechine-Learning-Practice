@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77731912-3e5c-41a9-b0c3-cee7275495b5" name="Changes" comment="" />
+    <list default="true" id="ff3d681a-7ecd-48fe-b6ea-3693cf92a279" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2Fr1NTKNzlh2VweEmtSs7LxoDbm" />
+  <component name="ProjectId" id="2J7phmHTnM1i7yebJQoE2HSEk71" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,16 +19,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../pythonProject/House price" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Summer Olympic data Analysis" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="77731912-3e5c-41a9-b0c3-cee7275495b5" name="Changes" comment="" />
-      <created>1665235349060</created>
+      <changelist id="ff3d681a-7ecd-48fe-b6ea-3693cf92a279" name="Changes" comment="" />
+      <created>1671439096865</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1665235349060</updated>
+      <updated>1671439096865</updated>
     </task>
     <servers />
   </component>
