@@ -1,7 +1,7 @@
-,Classifier,Precision,Recall,F1-Measure,Se,Sp,CC,Accuracy,AUC
-0,Random Forest,0.88,0.8,0.84,0.8,0.96,0.92,0.92,0.88
-1,Decision Tree,0.74,0.85,0.79,0.85,0.9,0.88,0.88,0.87
-2,Logistic Regression,0.88,0.32,0.47,0.32,0.98,0.81,0.81,0.65
-3,K-Nearest Neighbors,0.76,0.5,0.6,0.5,0.95,0.83,0.83,0.72
-4,SVM,0.96,0.08,0.15,0.08,1.0,0.76,0.76,0.54
-5,Naive Baye's,0.96,0.17,0.29,0.17,1.0,0.78,0.78,0.58
+,Classifier,Precision,Se/Recall,Sp,F1-Measure,CC,Accuracy,AUC
+0,Random Forest,0.86,0.8,0.95,0.83,0.92,0.92,0.88
+1,Decision Tree,0.75,0.85,0.9,0.8,0.89,0.89,0.87
+2,Logistic Regression,0.88,0.32,0.98,0.47,0.81,0.81,0.65
+3,K-Nearest Neighbors,0.76,0.5,0.95,0.6,0.83,0.83,0.72
+4,SVM,0.96,0.08,1.0,0.15,0.76,0.76,0.54
+5,Naive Baye's,0.96,0.17,1.0,0.29,0.78,0.78,0.58
